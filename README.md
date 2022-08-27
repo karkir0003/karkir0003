@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/karkir0003](github.com/karkir0003)
 
-- 💬 Ask me about **python, data science, artificial intelligence, machine learning, deep learning**
+- 💬 Ask me about **python, data science, artificial intelligence, machine learning, deep learning, software engineering**
 
 - 📫 How to reach me **karkir0003@gmail.com**
 
