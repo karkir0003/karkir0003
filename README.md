@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [A cool web application with 12+ developers](DM me)
 
-- 👨‍💻 All of my projects are available at [github.com/karkir0003](github.com/karkir0003)
+- 👨‍💻 All of my projects are available at [github.com/karkir0003](github.com/karkir0003). An idea dump I made for future project ideas are [https://github.com/karkir0003/Idea-Dump](here)
 
 - 💬 Ask me about **python, data science, artificial intelligence, machine learning, deep learning, software engineering**
 
