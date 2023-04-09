@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karkir0003" alt="karkir0003" /></a> </p>
 
-- 🔭 I’m currently working on [A cool web application with 12+ developers](Coming soon)
+- 🔭 I’m currently working on [A cool web application with 12+ developers](https://github.com/DSGT-DLP/Deep-Learning-Playground)
 
 - 🌱 I’m currently learning **Spark, Airflow, AWS**
 
