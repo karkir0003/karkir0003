@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthik Subramanian</h1>
-<h3 align="center">A passionate software engineer from USA. My interests are in ML, AI, backend dev, big data</h3>
+<h3 align="center">A passionate software engineer from the USA. My interests are in ML, AI, backend dev, big data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karkir0003&label=Profile%20views&color=0e75b6&style=flat" alt="karkir0003" /> </p>
 
