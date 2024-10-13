@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/karkir0003](github.com/karkir0003)
 
-- 📝 I regularly write articles on [https://medium.com/@karkir0003](https://medium.com/@karkir0003)
+- 📝 I regularly write articles on [Karthik's Newsletter](https://karthiksubramanian.substack.com)
 
 - 💬 Ask me about **python, data science, artificial intelligence, machine learning, deep learning, software engineering**
 
