@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **python, data science, artificial intelligence, machine learning, deep learning, software engineering**
 
-- 📫 How to reach me **karkir0003@gmail.com**
+- 📫 How to reach me **karkir0003@gmail.com** or book a time at my [Calendly](https://calendly.com/karkir0003)
 
 - ⚡ Fun fact **Getting back into doing more biking, hiking and cooking**
 
